@@ -10,9 +10,7 @@ Delphi Digital 领投 500w美刀，做 ZKVM 工作量证明的 $Nock
 
 最低配置要求：
 
-配置CPU：8核
-内存：64 GB  
-SSD：200 GB
+配置CPU：8核///内存：64 GB///SSD：200 GB
 
 
 安装步骤：
