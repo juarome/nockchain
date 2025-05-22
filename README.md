@@ -8,7 +8,9 @@ Delphi Digital 领投 500w美刀，做 ZKVM 工作量证明的 $Nock
 作用：用于支付 Nockchain 上的区块空间
 
 
-最低推荐配置CPU：8核
+最低配置要求：
+
+配置CPU：8核
 内存：64 GB  
 SSD：200 GB
 
