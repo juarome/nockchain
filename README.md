@@ -195,4 +195,3 @@ make install-hoonc
 nockchain --mining-pubkey <your_pubkey> --mine
 ```
 
-For launch, make sure you run in a fresh working directory that does not include a .data.nockchain file from testing.
